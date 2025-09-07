@@ -10,7 +10,7 @@
 
 This comprehensive system automates contractor application processing through a sophisticated Airtable-based workflow featuring multi-table data collection, JSON compression for efficient storage, automated candidate shortlisting based on business rules, and AI-powered qualitative evaluation using OpenAI.
 
-**Live System**: [Airtable Base](https://airtable.com/app6GCy2Qiqzz6l34/shruFyllEJ0lZc5Tw) |
+**Live System**: [Airtable Base](https://airtable.com/app6GCy2Qiqzz6l34/shruFyllEJ0lZc5Tw) | **Application Forms**: [Personal Details](https://airtable.com/app6GCy2Qiqzz6l34/pagJdjAaH2WYpFQJN/form) | [Work Experience](https://airtable.com/app6GCy2Qiqzz6l34/pag1AOrO5hiar5rzo/form) | [Salary Preferences](https://airtable.com/app6GCy2Qiqzz6l34/pagdgQxCcVlev3rrQ/form)
 
 ## System Architecture
 
@@ -197,11 +197,6 @@ The system uses 3 separate forms to handle Airtable's multi-table input limitati
 1. **Personal Details Form**: Contact information and professional profiles
 2. **Work Experience Form**: Employment history and technical skills  
 3. **Salary Preferences Form**: Rate expectations and availability
-
-**Form URLs**:
-- Personal Details: `https://airtable.com/app6GCy2Qiqzz6l34/pagJdjAaH2WYpFQJN/form`
-- Work Experience: `https://airtable.com/app6GCy2Qiqzz6l34/pag1AOrO5hiar5rzo/form`
-- Salary Preferences: `https://airtable.com/app6GCy2Qiqzz6l34/pagdgQxCcVlev3rrQ/form`
 
 ##  System Configuration
 
