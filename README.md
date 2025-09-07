@@ -10,7 +10,7 @@
 
 This comprehensive system automates contractor application processing through a sophisticated Airtable-based workflow featuring multi-table data collection, JSON compression for efficient storage, automated candidate shortlisting based on business rules, and AI-powered qualitative evaluation using OpenAI.
 
-**Live System**: [Airtable Base](https://airtable.com/app6GCy2Qiqzz6l34/shruFyllEJ0lZc5Tw) | [Application Forms](#-data-collection-forms)
+**Live System**: [Airtable Base](https://airtable.com/app6GCy2Qiqzz6l34/shruFyllEJ0lZc5Tw) |
 
 ## System Architecture
 
